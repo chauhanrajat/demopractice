@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="155331" started-at="2020-06-29T19:50:19Z" finished-at="2020-06-29T19:52:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="155331" started-at="2020-06-29T19:50:19Z" finished-at="2020-06-29T19:52:54Z">
+      <class name="com.Selenium.TestCase.CheckDrivers">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.Selenium.TestCase.CheckDrivers@3cbbc1e0]" name="setUp" is-config="true" duration-ms="65181" started-at="2020-06-30T01:20:19Z" finished-at="2020-06-30T01:21:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="OpenYoutube()[pri:0, instance:com.Selenium.TestCase.CheckDrivers@3cbbc1e0]" name="OpenYoutube" duration-ms="51355" started-at="2020-06-30T01:21:24Z" finished-at="2020-06-30T01:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenYoutube -->
+        <test-method status="PASS" signature="endSession()[pri:0, instance:com.Selenium.TestCase.CheckDrivers@3cbbc1e0]" name="endSession" is-config="true" duration-ms="38658" started-at="2020-06-30T01:22:16Z" finished-at="2020-06-30T01:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- com.Selenium.TestCase.CheckDrivers -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
