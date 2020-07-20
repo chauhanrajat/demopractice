@@ -9,6 +9,7 @@
   <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.Selenium.TestCase.CheckDrivers"/>
+<!--<class name="com.Selenium.TestCase.CheckDrivers"/>--!>
       
     </classes>
   </test> <!-- Test -->
